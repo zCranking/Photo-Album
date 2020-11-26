@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: rgb(77, 241, 85);
+}
+#date {
+    color: rgb(235, 17, 82);
+    font-family: 'Nerko One', cursive;
+    font-size: 30px;
+}
+h1 {
+    color: rgb(235, 17, 82);
+    font-family: 'Nerko One', cursive;
+    font-size: 70px;
+}
+.photo {
+    display: flex;
+    justify-content: center;
+}
+#photo1 {
+    height: 350px;
+}
+#photo2 {
+    height: 350px;
+}
+#photo3 {
+    height: 370px;
+}
+#photo4 {
+    height: 370px;
+}
+.para {
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: rgb(235, 17, 82);
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+
+}
